@@ -4,6 +4,8 @@
 
 - <b>Python</b>
   - [CLN parametrization](https://github.com/hanneskoessl/CLN)
+  - [Fit](https://github.com/hanneskoessl/Fit)
+  
 - <b>C/C++</b>
     - [Polynomial](https://github.com/hanneskoessl/Polynomial)
 - <b>Fortran</b>
