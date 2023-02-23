@@ -14,7 +14,7 @@
   - [NMR imaging](https://github.com/hanneskoessl/NMR-imaging)
   
 - <b>Latex</b>
-  - [Template presentation](https://github.com/hanneskoessl/Latex)
+  - [Template presentation](https://github.com/hanneskoessl/Latex/tree/main/MA-slides)
   
   
 
