@@ -13,8 +13,8 @@
   - [Overlap criterion for superellipse](https://github.com/hanneskoessl/superellipse)  
   - [NMR imaging](https://github.com/hanneskoessl/NMR-imaging)
   
-  - <b>Latex</b>
-    - [Template presentation](https://github.com/hanneskoessl/Latex)
+- <b>Latex</b>
+  - [Template presentation](https://github.com/hanneskoessl/Latex)
   
   
 
