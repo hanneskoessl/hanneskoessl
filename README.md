@@ -1,17 +1,12 @@
 <h1>Hi, I'm Hannes!
 
-<h2>👨‍💻 Coding projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>Python</b>
-  - [CLN parametrization](https://github.com/hanneskoessl/CLN)
-  - [Fit](https://github.com/hanneskoessl/Fit)
   
-- <b>C/C++</b>
-    - [Polynomial](https://github.com/hanneskoessl/Polynomial)
+
   
-- <b>Fortran</b>
-  - [Overlap criterion for superellipse](https://github.com/hanneskoessl/superellipse)  
-  - [NMR imaging](https://github.com/hanneskoessl/NMR-imaging)
+
   
 - <b>Latex</b>
   - [Template presentation](https://github.com/hanneskoessl/Latex/tree/main/MA-slides)
