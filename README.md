@@ -9,8 +9,7 @@
   
 
   
-- <b>Latex</b>
-  - [Template presentation](https://github.com/hanneskoessl/Latex/tree/main/MA-slides)
+
   
   
 
