@@ -4,6 +4,7 @@
 
 - <b>Python</b>
   - [Streamlit-app to understand machine learning algorithms](https://github.com/hanneskoessl/ml-app)
+  - [AutoScout24 Analysis and Price Prediction App](https://github.com/hanneskoessl/autoscout24-app)
   
 
   
