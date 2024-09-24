@@ -6,12 +6,10 @@
   - [Streamlit-app to understand machine learning algorithms](https://github.com/hanneskoessl/ml-app)
   - [AutoScout24 Analysis and Price Prediction App](https://github.com/hanneskoessl/autoscout24-app)
   
-
+- <b>AWS-Projects</b>
+  - [Deploying a Static Website with Hugo and AWS S3](https://github.com/hanneskoessl/AWS-Projects/tree/main/s3-static-website)
   
-
-  
-
-  
+ 
   
 
   
